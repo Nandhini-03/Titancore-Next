@@ -10,5 +10,5 @@ const HeaderWrapper = () => {
     </RecoilRoot>
   )
 }
-
+  
 export default HeaderWrapper
